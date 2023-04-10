@@ -1,4 +1,4 @@
-# NLP2Chart — Information Visualization in Natural Language -Part 2
+# NLP2Chart — Information Visualization in Natural Language -Part 2.
 ## An application to create charts with commands in natural language using CodeX
 
 ![The Interface](screen.png "The Interface")
